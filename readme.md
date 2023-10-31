@@ -1,9 +1,17 @@
+# Order summary component
 
-* HTML / CSS Tutorial – Create an Order Summary Component
+A perfect project for newbies who are starting to build confidence with layouts!
 
-My Challenge Solution Result Web Link: https://devlunch4.github.io/order-summary-component/index.html
-My Challenge Solution github Link: https://github.com/devlunch4/order-summary-component
+## My Result:
+- Preview Site:
+https://devlunch4.github.io/order-summary-component/index.html
+- View Code: 
+https://github.com/devlunch4/order-summary-component
+- My Soultion: 
+https://www.frontendmentor.io/solutions/ordersummarycomponent-challenge-using-html-and-css-ypVIzvq2Yi
 
-Challenge Project: https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj
-Guide Youtube: https://youtu.be/SR5GxoFhIAU?si=3kuMKp4Jy9I8Tm9H
-Guide Source Code: https://github.com/Madisonkanna/tutorial-order-summary-component
+## Reference
+- Challenge Site: 
+https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj  
+- Reference Youtube Link: 
+https://youtu.be/SR5GxoFhIAU?si=3kuMKp4Jy9I8Tm9H  
