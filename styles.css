@@ -31,8 +31,6 @@ body {
   color: var(--desaturated-blue);
   border-radius: 20px;
   margin: 50px auto;
-  overflow: hidden;
-  margin: 50px auto;
 }
 
 .title {
@@ -43,19 +41,25 @@ body {
 
 .hero-image {
   width: 100%;
+  border-top-right-radius: 20px;
+  border-top-left-radius: 20px;
 }
 
 .container {
-  padding: 30px;
   display: flex;
   flex-direction: column;
   justify-content: center;
   text-align: center;
+  padding: 30px;
   font-size: 18px;
 }
 
-.container>* {
+.container > * {
   margin: 13px 0;
+}
+
+.container strong {
+  color: var(--dark-blue);
 }
 
 .order-description {
@@ -74,21 +78,20 @@ body {
 }
 
 .plan-container a {
-  color: wvar(--bright-blue);
+  color: var(--bright-blue);
   font-size: 13px;
   font-weight: 700;
 }
 
 .plan-container a:hover {
-  opacity: 0.8;
+  color: var(--bright-blue-hover);
   text-decoration: none;
 }
 
-.plan-description{
-  line-height: 20px;
+.plan-description {
   margin-right: 75px;
+  line-height: 20px;
 }
-
 
 button {
   width: 100%;
@@ -99,6 +102,17 @@ button {
   cursor: pointer;
 }
 
+.cancel-button {
+  background-color: white;
+  color: var(--desaturated-blue);
+  border: none;
+  margin-top: 22px;
+}
+
+.cancel-button:hover {
+  color: black;
+}
+
 .proceed-button {
   background-color: var(--bright-blue);
   padding: 1rem 0;
@@ -107,16 +121,5 @@ button {
 }
 
 .proceed-button:hover {
-  opacity: 0.8;
-}
-
-
-.cancel-button {
-  background-color: white;
-  color: var(--desaturated-blue);
-  margin-top: 22px;
-}
-
-.cancel-button:hover {
-  color: black;
+  background-color: var(--bright-blue-hover);
 }
