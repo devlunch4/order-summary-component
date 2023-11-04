@@ -4,9 +4,9 @@ A perfect project for newbies who are starting to build confidence with layouts!
 
 ## My Result:
 - Preview Site:
-https://devlunch4.github.io/order-summary-component/index.html
+https://devlunch4.github.io/order-summary-component_frontend_mentor/index.html
 - View Code: 
-https://github.com/devlunch4/order-summary-component
+https://github.com/devlunch4/order-summary-component_frontend_mentor
 - My Soultion: 
 https://www.frontendmentor.io/solutions/ordersummarycomponent-challenge-using-html-and-css-ypVIzvq2Yi
 
