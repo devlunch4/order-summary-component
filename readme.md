@@ -31,8 +31,9 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://www.frontendmentor.io/solutions/ordersummarycomponent-challenge-using-html-and-css-ypVIzvq2Yi](https://www.frontendmentor.io/solutions/ordersummarycomponent-challenge-using-html-and-css-ypVIzvq2Yi)
-- Live Site URL: [https://devlunch4.github.io/order-summary-component_frontend_mentor/index.html](https://devlunch4.github.io/order-summary-component_frontend_mentor/index.html)
+- Solution URL: https://www.frontendmentor.io/solutions/ordersummarycomponent-challenge-using-html-and-css-ypVIzvq2Yi
+- Live Site URL: https://devlunch4.github.io/order-summary-component_frontend_mentor/index.html
+- github repo: https://github.com/devlunch4/order-summary-component_frontend_mentor
 
 ## My process
 
@@ -61,7 +62,7 @@ Users should be able to:
 
 ## Author
 
-- Website - [Michael](https://github.com/devlunch4)
+- github - [devlunch4](https://github.com/devlunch4)
 - Frontend Mentor - [@devlunch4](https://www.frontendmentor.io/profile/devlunch4)
 - Twitter - [@devlunch4](https://www.twitter.com/devlunch4)
 
