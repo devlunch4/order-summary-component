@@ -62,7 +62,7 @@ Users should be able to:
 
 ## Author
 
-- github - [devlunch4](https://github.com/devlunch4)
+- Website - [devlunch4](https://github.com/devlunch4)
 - Frontend Mentor - [@devlunch4](https://www.frontendmentor.io/profile/devlunch4)
 - Twitter - [@devlunch4](https://www.twitter.com/devlunch4)
 
