@@ -140,5 +140,14 @@ footer {
 }
 
 .attribution a {
-  color: var(--dark_cyan);
+  color: blue;
+}
+
+
+@media only screen and (max-width: 700) {
+  .card {
+      flex-direction: column;
+      width: 400px;
+  }
+
 }
